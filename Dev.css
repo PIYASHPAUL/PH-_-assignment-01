@@ -57,7 +57,7 @@
    min-height: 500px;
    background-image:
      linear-gradient(to bottom, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.75)),
-     url('/image/banner.jpg');
+     url('./image/banner.jpg');
    background-size: cover;
    background-position: center;
    color: #fff;
